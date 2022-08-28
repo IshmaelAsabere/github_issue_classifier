@@ -17,3 +17,4 @@ DateTime==4.5
 altair==4.2.0
 sqlmodel==0.0.7
 typing
+scikit-learn
