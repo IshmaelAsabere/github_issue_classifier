@@ -12,3 +12,7 @@ Sphinx
 coverage
 awscli
 flake8
+joblib==1.1.0
+Pillow==2.5.3
+DateTime==4.5
+altair==4.2.0
