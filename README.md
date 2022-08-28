@@ -1,2 +1,2 @@
 # github_issue_classifier
-github_issueclassifier_app
+github_issue_classifier_app
